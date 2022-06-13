@@ -1067,7 +1067,7 @@ Connect Dummy
 == Connecter le dummy
 
 Reconnect in %d sec
-== Reconnecte dans %d sec
+== Reconnexion dans %d sec
 
 DDraceNetwork is a cooperative online game where the goal is for you and your group of tees to reach the finish line of the map. As a newcomer you should start on Novice servers, which host the easiest maps. Consider the ping to choose a server close to you.
 == DDRaceNetwork est un jeu coopératif en ligne dont l'objectif est, pour vous ainsi que votre groupe de tees, d'atteindre la ligne d'arrivée d'une carte. En tant que nouveau joueur, il est préférable que vous commenciez sur les serveurs Novice, qui sont constitués des cartes les plus simples. Prenez en compte le ping afin de choisir un serveur proche de chez vous.
@@ -1248,7 +1248,7 @@ Getting server list from master server
 == Obtention de la liste des serveurs depuis le serveur maître
 
 Leak IP
-== Fuiter l'IP
+== Montrer l'IP
 
 Chat command
 == Commande de chat
